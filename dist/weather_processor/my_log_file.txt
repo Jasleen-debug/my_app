@@ -1,0 +1,1 @@
+2021-12-14 13:42:30,904 - root - INFO - Starting the program

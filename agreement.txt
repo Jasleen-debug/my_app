@@ -1,0 +1,81 @@
+  
+License Agreement 
+  
+  
+This License Agreement (this "Agreement") is made effective as of 13 December,2021 between ‘Jk&Co’ project, of Python programming course, and the Party Who Will Use the Licensed Property.
+ 
+In the Agreement, the party who is granting the right to use the licensed property will be referred to as ‘Jk&Co’, and the party who is receiving the right to use the licensed property will be referred to as "User."
+ 
+The parties agree as follows:
+ 
+1. GRANT OF LICENSE.
+‘Jk&Co’ owns Weather Processor app (the "Authored Work"). In accordance with this Agreement, ‘Jk&Co’ grants User an exclusive license to use the Authored Work. ‘Jk&Co’ retains title and ownership of the Authored Work and derivative works will be assigned to Licensor by Licensee.
+ 
+2. PAYMENT OF ROYALTY.
+User will pay to ‘Jk&Co’ a royalty which shall be calculated as follows: [Describe How the Payment to the Licensor in Exchange for the Use of the Licensed Property Will be Determined]
+ 
+3. MODIFICATIONS.
+User may not modify or change the Authored Work in any manner.
+ 
+4. DEFAULTS.
+If User fails to abide by the obligations of this Agreement, including the obligation to make a royalty payment when due, ‘Jk&Co’ shall have the option to cancel this Agreement by providing 7 days' written notice to User. User shall have the option of preventing the termination of this Agreement by taking corrective action that cures the default, if such corrective action is taken prior to the end of the time period stated in the previous sentence, and if there are no other defaults during such time period.
+ 
+5. CONFIDENTIAL INFORMATION.
+The term "Confidential Information" means any information or material which is proprietary to ‘Jk&Co’, whether or not owned or developed by ‘Jk&Co’, which is not generally known other than by ‘Jk&Co’, and which User may obtain through any direct or indirect contact with ‘Jk&Co’. Regardless of whether specifically identified as confidential or proprietary, Confidential Information shall include any information provided by ‘Jk&Co’ concerning the business, technology, and information of ‘Jk&Co’ and any third party with ‘Jk&Co’ deals, including, without limitation, business records and plans, trade secrets, technical data, product ideas, contracts, financial information, pricing structure, discounts, computer programs and listings, source code and/or object code, copyrights and intellectual property, inventions, sales leads, strategic alliances, partners, and customer and client lists. The nature of the information and the manner of disclosure are such that a reasonable person would understand it to be confidential.
+ 
+A. "Confidential Information" does not include:
+•	matters of public knowledge that result from disclosure by ‘Jk&Co’
+•	information rightfully received by User from a third party without a duty of confidentiality;
+•	information independently developed by User
+•	information disclosed by operation of law;
+•	information disclosed by User with the prior written consent of ‘Jk&Co’
+•	any other information that both parties agree in writing is not confidential.
+ 
+6. PROTECTION OF CONFIDENTIAL INFORMATION.
+User understands and acknowledges that the Confidential Information has been developed or obtained by ‘Jk&Co’ by the investment of significant time, effort, and expense, and that the Confidential Information is a valuable, special and unique asset of ‘Jk&Co’ which provides ‘Jk&Co’ with a significant competitive advantage and needs to be protected from improper disclosure. In consideration for the receipt by User of any Confidential Information, User agrees as follows:
+ 
+A. No Disclosure.
+User will hold the Confidential Information in confidence and will not disclose the Confidential Information to any person or entity without the prior written consent of ‘Jk&Co’. 
+B. No Copying/Modifying.
+User will not copy or modify any Confidential Information without the prior written consent of ‘Jk&Co’
+ 
+C. Unauthorized Use.
+User shall promptly advise ‘Jk&Co’ if User becomes aware of any possible unauthorized disclosure or use of the Confidential Information.
+ 
+D. Application to Employees.
+User shall not disclose any Confidential Information to any employees of User, except those employees who are required to have the Confidential Information in order to perform their job duties in connection with the limited purposes of this Agreement. Each permitted employee to whom Confidential Information is disclosed shall sign a non-disclosure agreement substantially the same as this Agreement at the request of ‘Jk&Co’
+ 
+7. WARRANTIES.
+Neither party makes any warranties with respect to the use, sale or other transfer of the Authored Work by the other party or by any third party, and User accepts the product "AS IS." In no event will ‘Jk&Co’ be liable for direct, indirect, special, incidental, or consequential damages, that are in any way related to the Authored Work.
+ 
+8. NON-EXCLUSIVE LICENSE TO LICENSOR.
+As of the effective date, User grants back to ‘Jk&Co’ a non-exclusive royalty-free license to use the Authored Work as ‘Jk&Co’ sees fit, including for the creation of derivative works; provided, however, this license shall not limit User's rights and public rights under this License.
+ 
+9. TRANSFER OF RIGHTS.
+This Agreement shall be binding on any successors of the parties. Neither party shall have the right to assign its interests in this Agreement to any other party unless the prior written consent of the other party is obtained.
+ 
+10. TERMINATION.
+This Agreement may be terminated by either party by providing 7 days' written notice to the other party. This Agreement shall terminate automatically on never.
+ 
+11. ENTIRE AGREEMENT.
+This Agreement contains the entire agreement of the parties and there are no other promises or conditions in any other agreement whether oral or written. This Agreement supersedes any prior written or oral agreements between the parties.
+ 
+12. AMENDMENT.
+This Agreement may be modified or amended if the amendment is made in writing and is signed by both parties.
+ 
+13. SEVERABILITY.
+If any provision of this Agreement shall be held to be invalid or unenforceable for any reason, the remaining provisions shall continue to be valid and enforceable. If a court finds that any provision of this Agreement is invalid or unenforceable, but that by limiting such provision it would become valid or enforceable, then such provision shall be deemed to be written, construed, and enforced as so limited.
+ 
+14. WAIVER OF CONTRACTUAL RIGHT.
+The failure of either party to enforce any provision of this Agreement shall not be construed as a waiver or limitation of that party's right to subsequently enforce and compel strict compliance with every provision of this Agreement.
+ 
+15. APPLICABLE LAW.
+This Agreement shall be governed by the laws of the State of Manitoba.
+ 
+16. SIGNATORIES.
+This Agreement shall be signed on behalf of ‘Jk&Co’ by XYZ and on behalf of User by NAME and effective as of the date first above written.
+ 
+ 
+Licensor:
+‘Jk&Co’
+ 
